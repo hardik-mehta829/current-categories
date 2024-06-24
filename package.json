@@ -1,0 +1,10 @@
+{
+  "name": "currentcategories",
+  "version": "1.0.0",
+  "description": "Categories used",
+  "main": "index.js",
+  "types": "currentcategories.d.ts",
+  "type": "module",
+  "author": "NBNW",
+  "license": "MIT"
+}
